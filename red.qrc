@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>img/enemyShip.png</file>
+        <file>img/laserRed.png</file>
+        <file>img/player.png</file>
+        <file>img/Background/starBackground.png</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>sounds/Hall of the Mountain King.mp3</file>
+        <file>sounds/Laser.mp3</file>
+        <file>sounds/The Offspring - Hit that.mp3</file>
+    </qresource>
+    <qresource prefix="/menu">
+        <file>img/Menu/StartButton.png</file>
+    </qresource>
+</RCC>
